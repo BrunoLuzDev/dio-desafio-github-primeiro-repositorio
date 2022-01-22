@@ -1,0 +1,22 @@
+ baixar : https://git-scm.com/downloads
+
+Aplicações:
+-Controle de versão.
+-Armazenamento na nuvem.
+-Trabalho em Equipe.
+-Melhorar o código.
+-Reconhecimento.
+
+dir comando listar
+cd/ navegar entre as pastas
+cls limpar
+tab auto completa
+mkdir criar uma pasta
+echo printa
+del deletar
+seta pra cima - move nos comandos
+rmdir <nome>  /S /Q  --exclui diretorio
+
+git init inicia um diretório
+git add move arquivos
+git commit cria commit
